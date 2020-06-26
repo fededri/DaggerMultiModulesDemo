@@ -1,0 +1,5 @@
+include ':login'
+include ':core'
+include ':utilities'
+include ':app'
+rootProject.name = "DaggerModulesDemo"
