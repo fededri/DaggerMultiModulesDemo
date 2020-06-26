@@ -19,6 +19,7 @@
 
     <Button
         android:id="@+id/button"
+        android:text="Go to home"
         app:layout_constraintTop_toBottomOf="@+id/text"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
